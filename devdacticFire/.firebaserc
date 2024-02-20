@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "llammapajamas": {
+      "hosting": {
+        "app": [
+          "llammapajamas"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "llammapajamas"
+  }
+}
