@@ -11,6 +11,8 @@
     "test": "ng test",
     "lint": "ng lint"
   },
+
+
   "private": true,
   "dependencies": {
     "@angular/animations": "^17.0.2",
@@ -35,6 +37,7 @@
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
   },
+
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.0.0",
     "@angular-eslint/builder": "^17.0.0",
